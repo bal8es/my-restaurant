@@ -89,6 +89,6 @@
     Small -  2$   Large -  3$
 
 
-<p align="center" style="background-color:#800000;">
+<p align="center" style="background-color:#800000;color:white;">
 To contact the owner <a href="https://www.facebook.com/profile.php?id=100005711505216">Click here!</a>
 </p>
