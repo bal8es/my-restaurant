@@ -1,0 +1,109 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    
+}
+header {
+    display: flex;
+    justify-content: space-around ;
+    align-items:center;
+    height:145px;
+    border-bottom: 10px solid #800A0A;
+}
+header ul{
+    display: flex;
+    gap: 70px;
+    margin-right: 10%;
+    padding-top: 60px;
+    font-size:20px;
+}
+header ul li{
+    list-style: none;
+}
+header ul li a {
+    text-decoration: none;
+}
+header img{
+    display: flex;
+    width: 400px;
+    margin-bottom: 10px;
+    margin-right:20%;
+}
+
+main .ap{
+    width: 422px;
+    height: 545px;
+    filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+    object-fit: cover;
+}
+main .mc{
+    width: 422px;
+    height: 545px;
+    float: right;
+    object-fit: cover;
+}
+main .s{
+
+    width: 275px;
+    margin-left: 12%;
+    margin-bottom: 7%;
+    border-radius: 4px;
+    object-fit: cover;
+    
+}
+main .best{
+    border: 2px solid #800A0A;
+    text-align: center;
+    font-family: 'Italianno', cursive;
+    font-size: 40px;
+    height:40px;
+}
+.b1 {
+    position: absolute;
+    bottom: 25px;
+    left: 80px;
+    background-color: #fff2df;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+  }
+  .b2{
+    position: absolute;
+    top: 320px;
+    left: 660px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #fff2df;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+.b3{
+    position: absolute;
+    bottom: 25px;
+    right: 80px;
+    background-color: #fff2df;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+.fl{
+    font-family: 'Italianno', cursive;
+    font-size: 27px;
+    text-align: center;
+}
+.rd{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 20px;
+    width: 1000px;
+    height: 467px;
+}
+.os{
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    padding-top: 15px;
+    height: 55px;
+}
+
+footer{
+    padding-bottom: 60px;
+}
